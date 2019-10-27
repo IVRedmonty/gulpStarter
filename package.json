@@ -1,0 +1,30 @@
+{
+  "name": "gulp-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cssbeautify": "^2.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.2",
+    "gulp-strip-css-comments": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "panini": "^1.6.3"
+  }
+}
